@@ -1,10 +1,10 @@
 <div>
-    <img src="https://github.com/hayuri90/saladdaisoBoot/assets/121767145/21521dcf-f5dc-4eb8-9b67-8599c1a196ac" height="270">
+    <img src="https://github.com/hayuri90/hayuri90/assets/121767145/2306a5e8-8bb3-4cd4-ae0d-5efa09f85fe3" height="270">
 </div>
 <br/><br/>
 <div>
     <div>
-        <p><b>💛 CONTACT 💛</b></p>
+        <p><strong>💛 CONTACT 💛</strong></p>
         <a href="https://github.com/hayuri90">
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayuri90&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
         </a>
@@ -14,7 +14,7 @@
     </div>
     <br/><br/>
     <div>
-        <p><b>💛 TECH STACK 💛</b></p>
+        <p><strong>💛 TECH STACK 💛</strong></p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>

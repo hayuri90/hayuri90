@@ -1,8 +1,8 @@
-<div>
+<div align="center">
     <img src="https://github.com/hayuri90/hayuri90/assets/121767145/0b5d5029-7939-4025-ac78-bfc08cd88d50" height="270">
 </div>
 <br/><br/>
-<div>
+<div align="center">
     <div>
         <p><b>💛 CONTACT 💛</b></p>
         <a href="https://github.com/hayuri90">

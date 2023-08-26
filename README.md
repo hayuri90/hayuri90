@@ -1,7 +1,5 @@
-### 🐥 hayuri90/README.md
-
 <div>
-    <img src="https://github.com/hayuri90/saladdaisoBoot/assets/121767145/21521dcf-f5dc-4eb8-9b67-8599c1a196ac" height="200">
+    <img src="https://github.com/hayuri90/saladdaisoBoot/assets/121767145/21521dcf-f5dc-4eb8-9b67-8599c1a196ac" height="300">
 </div>
 <br/><br/>
 <div>
@@ -33,6 +31,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-333317?style=flat-square&logo=Notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white" />
         <br/>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Fluentd&logoColor=white"/>

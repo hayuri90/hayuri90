@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github.com/hayuri90/saladdaisoBoot/assets/121767145/21521dcf-f5dc-4eb8-9b67-8599c1a196ac" height="300">
+    <img src="https://github.com/hayuri90/saladdaisoBoot/assets/121767145/21521dcf-f5dc-4eb8-9b67-8599c1a196ac" height="250">
 </div>
 <br/><br/>
 <div>

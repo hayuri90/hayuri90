@@ -4,7 +4,7 @@
 <br/><br/>
 <div>
     <div>
-        <p><strong>💛 CONTACT 💛</strong></p>
+        <p><b>💛 CONTACT 💛</b></p>
         <a href="https://github.com/hayuri90">
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayuri90&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
         </a>
@@ -14,7 +14,7 @@
     </div>
     <br/><br/>
     <div>
-        <p><strong>💛 TECH STACK 💛</strong></p>
+        <p><b>💛 TECH STACK 💛</b></p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>

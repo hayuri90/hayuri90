@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github.com/hayuri90/saladdaisoBoot/assets/121767145/21521dcf-f5dc-4eb8-9b67-8599c1a196ac" height="250">
+    <img src="https://github.com/hayuri90/saladdaisoBoot/assets/121767145/21521dcf-f5dc-4eb8-9b67-8599c1a196ac" height="270">
 </div>
 <br/><br/>
 <div>
@@ -35,5 +35,6 @@
         <br/>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Fluentd&logoColor=white"/>
+        <br/><br/>
     </div>
 </div>

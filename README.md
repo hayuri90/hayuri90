@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/hayuri90/hayuri90/assets/121767145/25e7b73d-c996-4795-bfd2-1d14b5479a62" height="270">
+    <img src="https://github.com/hayuri90/hayuri90/assets/121767145/25e7b73d-c996-4795-bfd2-1d14b5479a62" height="250">
 </div>
 <br/><br/>
 <div align="center">
@@ -28,13 +28,16 @@
         <br/>
         <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-333317?style=flat-square&logo=Notion&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white" />
         <br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-333317?style=flat-square&logo=Notion&logoColor=white"/>        <br/>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Fluentd&logoColor=white"/>
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=hayuri90&hide=stars,contribs&count_private=true&show_icons=true" width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayuri90&layout=compact" width="33.5%">
         <br/><br/>
     </div>
 </div>
